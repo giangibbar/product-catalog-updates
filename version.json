@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/giangibbar/product-catalog-updates/releases/download/v1.0.1/ProductCatalog.exe",
-  "note": "Refactor struttura progetto, fix client dialog"
+  "version": "1.0.2",
+  "download_url": "https://github.com/giangibbar/product-catalog-updates/releases/download/v1.0.2/ProductCatalog.exe",
+  "note": "Fix parser LLM per email complesse, fallback robusto JSON troncato"
 }
