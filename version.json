@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/giangibbar/product-catalog-updates/releases/download/v1.1.0/ProductCatalog.exe",
-  "note": "Migrazione SQLite, LLM async, config centralizzata, dialog centrati, thread-safety DB"
+  "version": "1.1.1",
+  "download_url": "https://github.com/giangibbar/product-catalog-updates/releases/download/v1.1.1/ProductCatalog.exe",
+  "note": "Database SQLite unico, modello AI scaricato al primo avvio (exe 50MB), dialog centrati, LLM"
 }
